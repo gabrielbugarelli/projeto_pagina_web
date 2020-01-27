@@ -1,0 +1,22 @@
+body{
+    font-family: 'Tahoma';
+    background-color: black;
+}
+.opcaomenu{
+    padding-left: 20px;
+}
+.fontMenu{
+    color: white;
+}
+h1, h2, h3, h4, h5, h6, p{
+    color: white;
+}
+.tituloChamada{
+    font-size: 15px;
+    color: rgb(158, 40, 40);
+    font-weight: bold;
+    text-align: center;
+}
+.texto{
+    text-align: justify;
+}
